@@ -1,0 +1,604 @@
+{
+  "datasets": {
+    "1su6-zfft": {
+      "downloaded_at": "2026-09-30T15:04:03.109285+00:00",
+      "files": [
+        "data/hospitals/1su6-zfft/PCH_Patient_Engagement_Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "3n5g-6b7f": {
+      "downloaded_at": "2026-09-30T15:04:01.325688+00:00",
+      "files": [
+        "data/hospitals/3n5g-6b7f/Medicare_Hospital_Spending_Per_Patient-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Medicare Spending Per Beneficiary - National"
+    },
+    "48nr-hqxx": {
+      "downloaded_at": "2026-09-30T15:03:59.754873+00:00",
+      "files": [
+        "data/hospitals/48nr-hqxx/ASCQR_OAS_CAHPS_BY_ASC.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility"
+    },
+    "4dyz-5kt1": {
+      "downloaded_at": "2026-09-30T15:04:03.128950+00:00",
+      "files": [
+        "data/hospitals/4dyz-5kt1/PCH_Patient_Engagement_National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - National"
+    },
+    "4gkm-5ypv": {
+      "downloaded_at": "2026-09-30T15:04:01.986479+00:00",
+      "files": [
+        "data/hospitals/4gkm-5ypv/Unplanned_Hospital_Visits-State.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Unplanned Hospital Visits - State"
+    },
+    "4j6d-yzce": {
+      "downloaded_at": "2026-09-30T15:04:01.471558+00:00",
+      "files": [
+        "data/hospitals/4j6d-yzce/Measure_Dates.csv"
+      ],
+      "modified": "2026-07-28",
+      "title": "Measure Dates"
+    },
+    "4jcv-atw7": {
+      "downloaded_at": "2026-09-30T15:03:59.846903+00:00",
+      "files": [
+        "data/hospitals/4jcv-atw7/ASC_Facility.csv"
+      ],
+      "modified": "2025-12-16",
+      "title": "Ambulatory Surgical Center Quality Measures - Facility"
+    },
+    "5gv4-jwyv": {
+      "downloaded_at": "2026-09-30T15:03:59.809726+00:00",
+      "files": [
+        "data/hospitals/5gv4-jwyv/FY2024_Net_Change_in_Base_Op_DRG_Payment_Amt.csv"
+      ],
+      "modified": "2025-12-09",
+      "title": "Table 1: FY2024 Net Change in Base Operating DRG Payment Amount"
+    },
+    "5hk7-b79m": {
+      "downloaded_at": "2026-09-30T15:04:00.486001+00:00",
+      "files": [
+        "data/hospitals/5hk7-b79m/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Medicare Spending Per Beneficiary - Hospital Additional Decimal Places"
+    },
+    "632h-zaca": {
+      "downloaded_at": "2026-09-30T15:04:04.675903+00:00",
+      "files": [
+        "data/hospitals/632h-zaca/Unplanned_Hospital_Visits-Hospital.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Unplanned Hospital Visits - Hospital"
+    },
+    "6pfg-whmx": {
+      "downloaded_at": "2026-09-30T15:04:00.237962+00:00",
+      "files": [
+        "data/hospitals/6pfg-whmx/OQR_OAS_CAHPS_STATE.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State"
+    },
+    "6qxe-iqz8": {
+      "downloaded_at": "2026-09-30T15:04:02.043972+00:00",
+      "files": [
+        "data/hospitals/6qxe-iqz8/VA_IPF.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Veterans Health Administration Behavioral Health Data"
+    },
+    "77hc-ibv8": {
+      "downloaded_at": "2026-09-30T15:04:03.904331+00:00",
+      "files": [
+        "data/hospitals/77hc-ibv8/Healthcare_Associated_Infections-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Healthcare Associated Infections - Hospital"
+    },
+    "7peb-i4pi": {
+      "downloaded_at": "2026-09-30T15:04:02.880456+00:00",
+      "files": [
+        "data/hospitals/7peb-i4pi/REH_Outpatient_Imaging_Efficiency-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital"
+    },
+    "84jm-wiui": {
+      "downloaded_at": "2026-09-30T15:03:59.885405+00:00",
+      "files": [
+        "data/hospitals/84jm-wiui/HCAHPS-State.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient survey (HCAHPS) - State"
+    },
+    "97xg-v3wv": {
+      "downloaded_at": "2026-09-30T15:04:02.690438+00:00",
+      "files": [
+        "data/hospitals/97xg-v3wv/REH_Timely_and_Effective_Care-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Rural Emergency Hospital Timely and Effective Care - Hospital"
+    },
+    "99ue-w85f": {
+      "downloaded_at": "2026-09-30T15:03:59.851453+00:00",
+      "files": [
+        "data/hospitals/99ue-w85f/HCAHPS-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient survey (HCAHPS) - National"
+    },
+    "9g7e-btyt": {
+      "downloaded_at": "2026-09-30T15:04:00.492187+00:00",
+      "files": [
+        "data/hospitals/9g7e-btyt/PCH_HCAHPS_NATIONAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National"
+    },
+    "9n3s-kdb3": {
+      "downloaded_at": "2026-09-30T15:04:00.876524+00:00",
+      "files": [
+        "data/hospitals/9n3s-kdb3/FY_2026_Hospital_Readmissions_Reduction_Program_Hospital.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Hospital Readmissions Reduction Program"
+    },
+    "apyc-v239": {
+      "downloaded_at": "2026-09-30T15:04:02.028010+00:00",
+      "files": [
+        "data/hospitals/apyc-v239/Timely_and_Effective_Care-State.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Timely and Effective Care - State"
+    },
+    "avtz-f2ge": {
+      "downloaded_at": "2026-09-30T15:04:01.236022+00:00",
+      "files": [
+        "data/hospitals/avtz-f2ge/hvbp_person_and_community_engagement.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)"
+    },
+    "axe7-s95e": {
+      "downloaded_at": "2026-09-30T15:03:59.606771+00:00",
+      "files": [
+        "data/hospitals/axe7-s95e/ASC_State.csv"
+      ],
+      "modified": "2025-12-16",
+      "title": "Ambulatory Surgical Center Quality Measures - State"
+    },
+    "bs2r-24vh": {
+      "downloaded_at": "2026-09-30T15:03:59.638320+00:00",
+      "files": [
+        "data/hospitals/bs2r-24vh/Complications_and_Deaths-State.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Complications and Deaths - State"
+    },
+    "bzsr-4my4": {
+      "downloaded_at": "2026-09-30T15:04:02.329635+00:00",
+      "files": [
+        "data/hospitals/bzsr-4my4/Data_Updates_July_2026.csv"
+      ],
+      "modified": "2026-07-15",
+      "title": "Data Updates"
+    },
+    "cvcs-xecj": {
+      "downloaded_at": "2026-09-30T15:04:01.962592+00:00",
+      "files": [
+        "data/hospitals/cvcs-xecj/Unplanned_Hospital_Visits-National.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Unplanned Hospital Visits - National"
+    },
+    "d2k3-k3ac": {
+      "downloaded_at": "2026-09-30T15:04:02.836292+00:00",
+      "files": [
+        "data/hospitals/d2k3-k3ac/REH_Timely_and_Effective_Care-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Rural Emergency Hospital Timely and Effective Care - National"
+    },
+    "dc76-gh7x": {
+      "downloaded_at": "2026-09-30T15:04:01.134922+00:00",
+      "files": [
+        "data/hospitals/dc76-gh7x/IPFQR_QualityMeasures_State.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by State"
+    },
+    "dgck-syfz": {
+      "downloaded_at": "2026-09-30T15:04:06.741898+00:00",
+      "files": [
+        "data/hospitals/dgck-syfz/HCAHPS-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient survey (HCAHPS) - Hospital"
+    },
+    "dgmq-aat3": {
+      "downloaded_at": "2026-09-30T15:04:01.182835+00:00",
+      "files": [
+        "data/hospitals/dgmq-aat3/hvbp_safety.csv"
+      ],
+      "modified": "2026-04-28",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Safety"
+    },
+    "di9i-zzrc": {
+      "downloaded_at": "2026-09-30T15:04:01.476648+00:00",
+      "files": [
+        "data/hospitals/di9i-zzrc/Outpatient_Imaging_Efficiency-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient Imaging Efficiency - National"
+    },
+    "f4ga-b9gx": {
+      "downloaded_at": "2026-09-30T15:04:02.705096+00:00",
+      "files": [
+        "data/hospitals/f4ga-b9gx/Promoting_Interoperability-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Promoting Interoperability - Hospital"
+    },
+    "hbf-map": {
+      "downloaded_at": "2026-09-30T15:04:02.779185+00:00",
+      "files": [
+        "data/hospitals/hbf-map/Birthing_Friendly_Hospitals_Geocoded.csv"
+      ],
+      "modified": "2026-07-28",
+      "title": "Birthing Friendly Hospitals with Geocoded Addresses"
+    },
+    "if5v-4x48": {
+      "downloaded_at": "2026-09-30T15:04:01.475726+00:00",
+      "files": [
+        "data/hospitals/if5v-4x48/Outpatient_Imaging_Efficiency-State.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient Imaging Efficiency - State"
+    },
+    "isrn-hqyy": {
+      "downloaded_at": "2026-09-30T15:04:01.568234+00:00",
+      "files": [
+        "data/hospitals/isrn-hqyy/Timely_and_Effective_Care-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Timely and Effective Care - National"
+    },
+    "iy27-wz37": {
+      "downloaded_at": "2026-09-30T15:04:00.486097+00:00",
+      "files": [
+        "data/hospitals/iy27-wz37/PCH_HCAHPS_HOSPITAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "jfnd-nl7s": {
+      "downloaded_at": "2026-09-30T15:04:00.207305+00:00",
+      "files": [
+        "data/hospitals/jfnd-nl7s/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National"
+    },
+    "k2ze-bqvw": {
+      "downloaded_at": "2026-09-30T15:04:00.147667+00:00",
+      "files": [
+        "data/hospitals/k2ze-bqvw/Healthcare_Associated_Infections-State.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Healthcare Associated Infections - State"
+    },
+    "k653-4ka8": {
+      "downloaded_at": "2026-09-30T15:04:00.431953+00:00",
+      "files": [
+        "data/hospitals/k653-4ka8/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital"
+    },
+    "muwa-iene": {
+      "downloaded_at": "2026-09-30T15:04:00.253581+00:00",
+      "files": [
+        "data/hospitals/muwa-iene/CMS_PSI_6_decimal_file.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "CMS Medicare PSI-90 and component measures - six-digit estimate dataset"
+    },
+    "mxtu-43qs": {
+      "downloaded_at": "2026-09-30T15:04:02.606812+00:00",
+      "files": [
+        "data/hospitals/mxtu-43qs/PATIENT_REPORTED_OUTCOMES_FACILITY.csv"
+      ],
+      "modified": "2026-08-05",
+      "title": "Patient-Reported Outcomes - Hospital"
+    },
+    "nrdb-3fcy": {
+      "downloaded_at": "2026-09-30T15:04:03.103724+00:00",
+      "files": [
+        "data/hospitals/nrdb-3fcy/Maternal_Health-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Maternal Health - Hospital"
+    },
+    "nrth-mfg3": {
+      "downloaded_at": "2026-09-30T15:04:02.510787+00:00",
+      "files": [
+        "data/hospitals/nrth-mfg3/Medicare_Hospital_Spending_by_Claim.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Medicare Hospital Spending by Claim"
+    },
+    "ptds-r8im": {
+      "downloaded_at": "2026-09-30T15:04:02.103266+00:00",
+      "files": [
+        "data/hospitals/ptds-r8im/VA_TE.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Veterans Health Administration Timely and Effective Care Data"
+    },
+    "pudb-wetr": {
+      "downloaded_at": "2026-09-30T15:04:01.059257+00:00",
+      "files": [
+        "data/hospitals/pudb-wetr/hvbp_clinical_outcomes.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores"
+    },
+    "q9vs-r7wp": {
+      "downloaded_at": "2026-09-30T15:04:01.179900+00:00",
+      "files": [
+        "data/hospitals/q9vs-r7wp/IPFQR_QualityMeasures_Facility.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by Facility"
+    },
+    "qatj-nmws": {
+      "downloaded_at": "2026-09-30T15:04:00.623131+00:00",
+      "files": [
+        "data/hospitals/qatj-nmws/PCH_HCAHPS_STATE.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State"
+    },
+    "qigt-w5cx": {
+      "downloaded_at": "2026-09-30T15:04:02.328427+00:00",
+      "files": [
+        "data/hospitals/qigt-w5cx/PCH_Palliative_Care_NATIONAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - National"
+    },
+    "qoeg-w7ck": {
+      "downloaded_at": "2026-09-30T15:04:02.596730+00:00",
+      "files": [
+        "data/hospitals/qoeg-w7ck/PCH_Palliative_Care_HOSPITAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "qqw3-t4ie": {
+      "downloaded_at": "2026-09-30T15:03:59.567161+00:00",
+      "files": [
+        "data/hospitals/qqw3-t4ie/Complications_and_Deaths-National.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Complications and Deaths - National"
+    },
+    "rrqw-56er": {
+      "downloaded_at": "2026-09-30T15:04:01.637640+00:00",
+      "files": [
+        "data/hospitals/rrqw-56er/Medicare_Hospital_Spending_Per_Patient-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Medicare Spending Per Beneficiary - Hospital"
+    },
+    "rs6n-9qwg": {
+      "downloaded_at": "2026-09-30T15:04:01.481992+00:00",
+      "files": [
+        "data/hospitals/rs6n-9qwg/Medicare_Hospital_Spending_Per_Patient-State.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Medicare Spending Per Beneficiary - State"
+    },
+    "s5pj-hua3": {
+      "downloaded_at": "2026-09-30T15:04:00.129392+00:00",
+      "files": [
+        "data/hospitals/s5pj-hua3/OQR_OAS_CAHPS_NATIONAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National"
+    },
+    "s5xg-sys6": {
+      "downloaded_at": "2026-09-30T15:04:00.879511+00:00",
+      "files": [
+        "data/hospitals/s5xg-sys6/IPFQR_QualityMeasures_National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - National"
+    },
+    "su9h-3pvj": {
+      "downloaded_at": "2026-09-30T15:04:00.946713+00:00",
+      "files": [
+        "data/hospitals/su9h-3pvj/hvbp_efficiency_and_cost_reduction.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Efficiency Scores"
+    },
+    "tf3h-mrrs": {
+      "downloaded_at": "2026-09-30T15:03:59.567040+00:00",
+      "files": [
+        "data/hospitals/tf3h-mrrs/ASCQR_OAS_CAHPS_NATIONAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National"
+    },
+    "tqkv-mgxq": {
+      "downloaded_at": "2026-09-30T15:03:59.613114+00:00",
+      "files": [
+        "data/hospitals/tqkv-mgxq/CJR_Quality_Reporting_January_2026_Production_File.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Comprehensive Care For Joint Replacement Model - Provider Data"
+    },
+    "u625-zae7": {
+      "downloaded_at": "2026-09-30T15:03:59.851506+00:00",
+      "files": [
+        "data/hospitals/u625-zae7/FY2024_Percent_Change_in_Medicare_Payments.csv"
+      ],
+      "modified": "2025-12-09",
+      "title": "Table 3: FY2024 Percent Change in Medicare Payments"
+    },
+    "uk3n-au7a": {
+      "downloaded_at": "2026-09-30T15:04:03.058499+00:00",
+      "files": [
+        "data/hospitals/uk3n-au7a/REH_Unplanned_Hospital_Visits-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - National"
+    },
+    "uyx4-5s7f": {
+      "downloaded_at": "2026-09-30T15:04:02.042761+00:00",
+      "files": [
+        "data/hospitals/uyx4-5s7f/Veterans_Health_Administration_Provider_Level_Data.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Veterans Health Administration Provider Level Data"
+    },
+    "vtqa-m4zn": {
+      "downloaded_at": "2026-09-30T15:03:59.846974+00:00",
+      "files": [
+        "data/hospitals/vtqa-m4zn/FY2024_Value_Based_Incentive_Payment_Amount.csv"
+      ],
+      "modified": "2025-12-09",
+      "title": "Table 4: FY2024 Value-Based Incentive Payment Amount"
+    },
+    "wkfw-kthe": {
+      "downloaded_at": "2026-09-30T15:04:01.710533+00:00",
+      "files": [
+        "data/hospitals/wkfw-kthe/Outpatient_Imaging_Efficiency-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient Imaging Efficiency - Hospital"
+    },
+    "wue8-3vwe": {
+      "downloaded_at": "2026-09-30T15:03:59.567692+00:00",
+      "files": [
+        "data/hospitals/wue8-3vwe/ASC_National.csv"
+      ],
+      "modified": "2025-12-16",
+      "title": "Ambulatory Surgical Center Quality Measures - National"
+    },
+    "x663-bwbj": {
+      "downloaded_at": "2026-09-30T15:03:59.602602+00:00",
+      "files": [
+        "data/hospitals/x663-bwbj/ASCQR_OAS_CAHPS_STATE.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State"
+    },
+    "xrgf-x36b": {
+      "downloaded_at": "2026-09-30T15:03:59.848835+00:00",
+      "files": [
+        "data/hospitals/xrgf-x36b/FY2024_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv"
+      ],
+      "modified": "2025-12-09",
+      "title": "Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount"
+    },
+    "xubh-q36u": {
+      "downloaded_at": "2026-09-30T15:04:00.486073+00:00",
+      "files": [
+        "data/hospitals/xubh-q36u/Hospital_General_Information.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Hospital General Information"
+    },
+    "y9us-9xdf": {
+      "downloaded_at": "2026-09-30T15:03:59.606838+00:00",
+      "files": [
+        "data/hospitals/y9us-9xdf/Footnote_Crosswalk.csv"
+      ],
+      "modified": "2025-09-18",
+      "title": "Footnote Crosswalk"
+    },
+    "yd3s-jyhd": {
+      "downloaded_at": "2026-09-30T15:03:59.991455+00:00",
+      "files": [
+        "data/hospitals/yd3s-jyhd/Healthcare_Associated_Infections-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Healthcare Associated Infections - National"
+    },
+    "yizn-abxn": {
+      "downloaded_at": "2026-09-30T15:04:04.695710+00:00",
+      "files": [
+        "data/hospitals/yizn-abxn/OQR_OAS_CAHPS_BY_HOSPITAL.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility"
+    },
+    "ynj2-r877": {
+      "downloaded_at": "2026-09-30T15:04:01.257385+00:00",
+      "files": [
+        "data/hospitals/ynj2-r877/Complications_and_Deaths-Hospital.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Complications and Deaths - Hospital"
+    },
+    "ypbt-wvdk": {
+      "downloaded_at": "2026-09-30T15:04:00.966053+00:00",
+      "files": [
+        "data/hospitals/ypbt-wvdk/hvbp_tps.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Total Performance Score"
+    },
+    "yq43-i98g": {
+      "downloaded_at": "2026-09-30T15:04:00.491189+00:00",
+      "files": [
+        "data/hospitals/yq43-i98g/FY_2026_HAC_Reduction_Program_Hospital.csv"
+      ],
+      "modified": "2026-01-26",
+      "title": "Hospital-Acquired Condition (HAC) Reduction Program"
+    },
+    "yv7e-xc69": {
+      "downloaded_at": "2026-09-30T15:04:05.561523+00:00",
+      "files": [
+        "data/hospitals/yv7e-xc69/Timely_and_Effective_Care-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Timely and Effective Care - Hospital"
+    },
+    "z8ax-x9j1": {
+      "downloaded_at": "2026-09-30T15:04:00.175977+00:00",
+      "files": [
+        "data/hospitals/z8ax-x9j1/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv"
+      ],
+      "modified": "2026-09-10",
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital"
+    },
+    "zez1-ka2w": {
+      "downloaded_at": "2026-09-30T15:04:02.982803+00:00",
+      "files": [
+        "data/hospitals/zez1-ka2w/REH_Unplanned_Hospital_Visits-Hospital.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - Hospital"
+    },
+    "zt3q-3e1z": {
+      "downloaded_at": "2026-09-30T15:04:02.914796+00:00",
+      "files": [
+        "data/hospitals/zt3q-3e1z/REH_Outpatient_Imaging_Efficiency-National.csv"
+      ],
+      "modified": "2026-07-22",
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - National"
+    }
+  }
+}
